@@ -259,5 +259,3 @@ Create a file `customcss.css` and put it inside `assets`. `customcss.css` contai
 ```
 ![image](https://user-images.githubusercontent.com/55682386/204579600-c644c530-2626-4ac6-8e34-7af9377f8870.png)
 
-#   C o n T R A C K - W e b s i t e  
- 

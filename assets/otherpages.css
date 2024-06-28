@@ -1,0 +1,77 @@
+/******** PROFILE PAGES **************/
+
+.profile-bg{
+    background-color: #dae8ee;
+    border-radius: 10px;
+    margin-top: -30px;
+    padding-top:20px; 
+    padding-bottom:20px;
+}
+
+.page-header{
+    margin-top:10px;
+    font-family: Montserrat;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.mb-3{
+    font-weight:bold;
+    margin-left:30px;
+    text-align: left;
+}
+
+
+
+.add-btn{
+    margin-right:20px;
+    background-color: #7dde80;
+    color: #091324;
+   
+}
+
+.cancel-btn{
+    background-color: #6a7279;
+    border-color:  #6a7279;
+    margin-right:20px;
+    text-align: center;
+}
+
+.submit-btn{
+    background-color: #2db672;
+    border-color:  #2db672;
+    margin-right:20px;
+    text-align: center;
+}
+
+/******** HOME PAGES **************/
+.find-title{
+    text-align:left;
+    margin-left: 30px;
+    font-family: Montserrat;
+    font-weight: bold;
+
+}
+
+.home-bg{
+    border-radius:10px;
+    background-color: #FFFFFF;
+
+}
+
+.head-title{
+    font-family: Montserrat;
+    font-weight: bold;
+    font-size: 30px;
+    color:#7a34eb;
+    margin-top:20px;
+    margin-left: 0px;
+}
+
+.head-add-btn {
+    background-color: #7a34eb;
+    color: #FFFFFF;
+    margin-top: 25px;
+    margin-left: auto;  /* Align to the right */
+    margin-right: -400px;
+}

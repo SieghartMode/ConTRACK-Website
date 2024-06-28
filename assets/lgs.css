@@ -1,0 +1,192 @@
+
+
+
+/************ LOGIN PAGE ************/
+.login-container {
+    max-width: 500px;
+    margin: auto;
+    padding: 50px 20px;
+    background-color: #effaff;
+    color: #032539;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.login-title {
+    font-size: 30px;
+    color: #102937;
+    margin-bottom: 10px;
+    font-family: Montserrat;
+    font-weight: 1000;
+    text-align:center;
+}
+
+.input-label {
+    text-align: center; 
+    color: #1C768F; 
+    margin-left: 40px;
+    margin-top: 15px;
+    font-weight: bold; 
+
+} 
+
+.common-box {
+    width:auto;
+    align-items: center;
+    margin-top: 5%;
+    text-align: left;
+}
+
+.input-boxes {
+    height: 40px;
+    margin-right: 5px; /* Adjust the margin as needed */
+    /*color: #ffffff;*/
+}
+
+.pass-icon {
+    height: 30px;
+    margin-top: 20px;
+    width: 30px;
+    margin-left: 70px; /* Adjust the margin as needed */
+}
+
+.user-icon {
+    height: 30px;
+    margin-top: 20px;
+    width: 30px;
+    margin-left: 70px; /* Adjust the margin as needed */
+}
+
+
+.login-btn {
+    width: 60%;
+    background-image: url("bg-01.jpg"); /* #53a569*/
+    border-color: #1C768F;
+    padding: 10px 0px;
+    margin-top: 6%;
+    text-align: center;
+}
+
+.login-btn:hover {
+    background-color: #2c683c;
+}
+
+.signup-link {
+    color: #1C768F;
+}
+
+.linespace {
+    margin-bottom: 30px;
+}
+
+.picture {
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    max-width: 100%;
+    max-height: 50%;
+}
+
+/* .mb-3 login-btn{
+    text-align:center;
+} */
+
+
+body {
+    background-image: url('bg-01.jpg');
+    margin: 0px;
+    height: 100vh;
+    text-align: center; /* Center text in body */
+}
+
+
+
+/************ HOME PAGE ************/
+.welcome-header, .welcome-msg {
+    font-family: Montserrat;
+    font-weight: bold;
+    text-align: left;
+}
+
+.welcome-header {
+    color: #7dde80;
+    font-size: 60px;
+    text-align: left;
+}
+
+.welcome-msg {
+    color: #ffffff;
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+
+/*********SHORTCUT WITH BUTTONS SECTION *******/
+.sc-header {
+    color: #2db672;
+    font-family: Montserrat;
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+}
+
+
+.b1, .b3 {
+    margin-right: 10px;
+} 
+
+.mb-1 {
+    width: 200px;
+    text-align: center;
+    background-color: #ffffff;
+    color: #1b2b44;
+    font-weight: bold;
+    border-color: #6a8794;
+    padding: 10px; /* Add padding */
+    margin-bottom: 50px; /* Add margin-bottom to create vertical space between buttons */
+    border-radius: 10px; /* Add rounded corners */
+}
+
+.add-container {
+    background-color: whitesmoke;
+    justify-content: center;
+    text-align: center;
+    padding: 20px; /* Add padding */
+    border-radius: 10px; /* Add rounded corners */
+    padding-bottom: 30px;
+}
+
+.header-2 {
+    color: #FFFFFF;
+    font-family: Montserrat;
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+
+.row-2 {
+    background-color: #ffffff;  /* Set background color for the second row */
+}
+
+.b1:hover {
+    background-color: #2db672;
+}
+.b2:hover {
+    background-color: #2db672;
+}
+.b3:hover {
+    background-color: #2db672;
+}
+.b4:hover {
+    background-color: #2db672;
+}
+.b5:hover {
+    background-color: #2db672;
+}
+
+/* .username-navlink{
+    margin-left: 'auto'
+} */
+
